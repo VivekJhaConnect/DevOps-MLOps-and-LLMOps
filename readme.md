@@ -39,11 +39,11 @@ _Italic text here_
 
 # Code
 
-'''Java
+```Java
 class MyClass{
 
 }
-'''
+```
 
 # List
 
