@@ -1,5 +1,5 @@
-# This is new Header
+### I am stand on My Current Branch. So first CHECKOUT that branch Where want to Merge The Code.
 
-## This is nother Header
-
-### This is third Header
+'''Shell
+git checkout -b NewBranch MergeBranch
+'''
