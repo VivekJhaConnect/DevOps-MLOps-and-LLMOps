@@ -58,4 +58,8 @@ class MyClass{
 
 # Horizontal line
 
-- or ***
+Simple Txt
+---
+
+Simple Text
+***
