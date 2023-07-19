@@ -21,5 +21,12 @@ git status
 ```Shell
 git add .
 ```
-If you need to all tha use (.) or file single file use file_path
+If you need to all tha use (.) 
+
+or 
+
+```Shell
+git add 'file_path'
+```
+file single file use file_path
 
