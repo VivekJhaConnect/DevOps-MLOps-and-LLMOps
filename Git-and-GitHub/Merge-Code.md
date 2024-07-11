@@ -30,3 +30,5 @@ git add 'file_path'
 ```
 file single file use file_path
 
+git commit -m "comments..."
+
