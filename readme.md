@@ -1,65 +1,80 @@
-# Writing Heading
+# Git and GitHub
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+This repository contains the notes and exercises for the Git and GitHub course.
 
-# Normal text
+## Course Structure
 
-This is normal text
+- Day 1-2: Version Control Basics
+- Day 3-5: Basic Git Commands
+- Day 6-7: Viewing History
+- Day 8-9: Branching and Merging
+- Day 10-11: Remote Repositories
+- Day 12-13: GitHub Integration
+- Day 14-15: Advanced GitHub Features
+- Day 16-17: Real-World Projects
 
-# Hyperlinks
+## Prerequisites
 
-[Github](https://www.github.com)
+- Basic knowledge of Git and GitHub
+- Basic knowledge of HTML, CSS, and JavaScript
+- Basic knowledge of React
 
-# Strong and italic text
+## Course Outline
 
-_Italic text here_
+### Day 1-2: Version Control Basics
 
-# StrikeThrough
+- What is Version Control?
+- Centralized vs. Distributed Version Control
+- Introduction to Git and GitHub
+- Setting up Git (Installation, Configuration)
 
-~~Strikethrough text~~
+### Day 3-5: Basic Git Commands
 
-# Images
+- Initializing a Git Repository (git init)
+- Adding files (git add), staging area concept
+- Committing changes (git commit)
+- Checking Status (git status)
 
-![imagename](TargetUrl)
+### Day 6-7: Viewing History
 
-# Tables
+- Viewing Commit History (git log)
+- Removing Files (git rm)
+- Renaming Files (git mv)
+- Using .gitignore
 
-|Name|Email|Address|      <====== This is the heading of the table
-|----|-----|-------|      <====== This is the separator.
-|John|john@example.com|Address1| <=== This is the table body.
+### Day 8-9: Branching and Merging
 
-# Quotes
+- Creating and switching branches (git branch, git checkout)
+- Merging branches (git merge)
+- Resolving merge conflicts
 
->Your quote looks like this.
+### Day 10-11: Remote Repositories
 
-# Code
+- Creating a GitHub account and repository
+- Cloning a remote repository (git clone)
+- Connecting local repo to GitHub (git remote)
 
-```Java
-class MyClass{
+### Day 12-13: GitHub Integration
 
-}
-```
+- Pushing changes (git push)
+- Pulling from remote (git pull)
+- Fetching changes (git fetch)
 
-# List
+### Day 14-15: Advanced GitHub Features
 
-1. Item 1
-2. Item 2
-3. Item 3
-   * Sub item 1
-   * Sub item 3
-* Unordered item
-* Unordered item
-* Unordered item
+- GitHub Issues
+- GitHub Projects
+- GitHub Actions
 
-# Horizontal line
+### Day 16-17: Real-World Projects
 
-Simple Txt
----
+- Building a Portfolio Website
+- Building a Blogging Platform
+- Building a To-Do List App
 
-Simple Text
-***
+## Course Materials
+
+- [Git and GitHub Course](https://www.udemy.com/course/git-and-github-bootcamp/)
+- [Git and GitHub Course Notes](https://github.com/mosh-hamedani/git-and-github-bootcamp)
+- [Git and GitHub Course Exercises](https://github.com/mosh-hamedani/git-and-github-bootcamp-exercises)
+
