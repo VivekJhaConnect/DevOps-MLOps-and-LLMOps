@@ -10,8 +10,8 @@ In centralized version control, there is a single central repository that contai
 
 - Introduction to Git and GitHub
 
-Git is a version control system that allows you to track changes to any set of files.
-GitHub is a web-based Git repository hosting service.
+    Git is a version control system that allows you to track changes to any set of files.
+    GitHub is a web-based Git repository hosting service.
 
 
 - Setting up Git (Installation, Configuration)
